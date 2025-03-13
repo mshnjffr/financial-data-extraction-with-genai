@@ -10,4 +10,4 @@ app.py
 
 # Virtual environments
 .venv
-
+.env
