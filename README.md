@@ -102,6 +102,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
 
 ## Project structure
+```
 financial_data_extraction
 ├── README.md
 ├── api_client.py
@@ -112,3 +113,4 @@ financial_data_extraction
 ├── ui_components.py
 ├── url_scraper.py
 └── uv.lock
+```
