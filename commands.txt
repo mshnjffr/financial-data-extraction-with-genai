@@ -1,0 +1,9 @@
+uv init financial_data_extraction
+Initialized project `financial-data-extraction` at `/Users/moshinjaffar/Desktop/Dev/python/financial_data_extraction`
+
+uv venv 
+create virtual environment 
+
+source .venv/bin/activate
+activate environment 
+
